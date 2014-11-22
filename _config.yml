@@ -1,8 +1,9 @@
 # Site wide configuration
 
-title:            Site Title
+title:            cconeilme in Development
 locale:           en_US
 url:              http://localhost:4000
+destination: ~/sites/dev_cconeilme
 
 
 # Jekyll configuration
@@ -26,12 +27,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
-  disqus-shortname: 
-  twitter: #username
+  name: Testing
+  avatar: c-logo.png
+  bio: "Testing Site."
+  email: colin@cconeil.me
+  disqus-shortname: cconeilme
+  twitter: caesaar
   facebook: #username
   google:
     plus: #username
@@ -43,7 +44,7 @@ owner:
   github: #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  instagram: #username
+  instagram: cc_on
   lastfm: #username
   tumblr: #username
   pinterest: #username
